@@ -1,6 +1,6 @@
-# Project NodeJS Starter Pack
+# NodeJS Starter Pack
 
-A simple nodeJS starter project with babel and nodemon pre-install
+A simple nodeJS project starter with babel and nodemon pre-install
 ## Installation
 
 Clone _NodeJS Starter Pack_ with git
